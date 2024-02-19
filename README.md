@@ -49,7 +49,7 @@ Show the details of the 2021-Jul-13 15:33:00 session:  <br/>
 
 <p align="center">
 Show the email message containing FTP credentials and the associated timestamps: <br/>
-<img src="https://i.imgur.com/XJyPQNL.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/XJyPQNL.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Prepare an Incident Response Report:</h2>
@@ -99,11 +99,11 @@ Systems Affected by the Incident, Users Affected by the Incident:  <br/>
 
 <p align="center">
 Show the email from Dr.Evil demanding that Marvin install a keylogger: <br/>
-<img src="https://i.imgur.com/XjoJeh1.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/XjoJeh1.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the email from Dr.Evil reminding Marvin to update the firewall and scheduler:  <br/>
-<img src="https://i.imgur.com/tkKk1mu.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/tkKk1mu.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
@@ -120,15 +120,15 @@ Show the email from Dr.Evil reminding Marvin to update the firewall and schedule
 
 <p align="center">
 Show the three events that are related to the Actual Keylogger file in the /Windows/System32/Tasks folder with a June 30 timestamp: <br/>
-<img src="https://i.imgur.com/4dxDIyF.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/4dxDIyF.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the one event that is related to the Actual Keylogger file in the /Windows/System32/Tasks folder with a July 1 timestamp: <br/>
-<img src="https://i.imgur.com/rtZlzwj.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/rtZlzwj.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Record the date and time when the keylogger's executable file was last started: <br/>
-<img src="https://i.imgur.com/MDPIak6.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/MDPIak6.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 <h2>Update an Incident Response Report:</h2>
@@ -144,15 +144,15 @@ Record the date and time when the keylogger's executable file was last started: 
 
 <p align="center">
 Date, Name, Incident Priority: <br/>
-<img src="https://i.imgur.com/BHyF3Ko.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/BHyF3Ko.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Incident Type, Incident Timeline, Incident Scope: <br/>
-<img src="https://i.imgur.com/ajIOFwR.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/ajIOFwR.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Systems Affected by the Incident, Users Affected by the Incident: <br/>
-<img src="https://i.imgur.com/AqLFK21.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/AqLFK21.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
@@ -175,9 +175,7 @@ Systems Affected by the Incident, Users Affected by the Incident: <br/>
 
 
 
-<p align="center">
-Show the HAProxy Statistics Report with a host in a DOWN state, as well as the UP host having more total sessions (http_server_pool_ipvANY, Sessions> Total) than the DOWN host: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+
 
 
 
